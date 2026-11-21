@@ -1,6 +1,6 @@
 # AL MASLAMANI Mobile App
 
-Initial Expo / React Native foundation for AL MASLAMANI FOR SERVICES & MAINTENANCE.
+Initial Chatgpt / React Native foundation for AL MASLAMANI FOR SERVICES & MAINTENANCE.
 
 ## Current scope
 - Email/password sign-in using the existing Supabase Auth project
@@ -25,5 +25,7 @@ Use the existing Supabase project. Do not create a second database unless necess
 Install Node.js and dependencies, then:
 ```bash
 npm install
-npx expo start
+npx chatgpt stary
+
+
 ```
