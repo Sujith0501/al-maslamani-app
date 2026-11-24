@@ -26,11 +26,11 @@ Install Node.js and dependencies, then:
 ```bash
 npm install
 npx chatgpt stary
-## Configure Github
+## Configure Github 
 Copy `.env.example` to `.env` and set:
 - `EXPO_PUBLIC_GITHUB_URL`
 - `EXPO_PUBLIC_GITHUB_ANON_KEY`
-## Configure ChatGpt
+## Configure ChatGpt/codex
 Copy `.env.example` to `.env` and set:
 - `EXPO_PUBLIC_chatgpt_URL`
 - `EXPO_PUBLIC_chatgpt_ANON_KEY`
